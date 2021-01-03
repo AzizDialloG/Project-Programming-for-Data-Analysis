@@ -74,7 +74,34 @@ Ploting different graphs to get better understanding of the dataset.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-## Reference
+## References:
+##### Course Materials
+##### scikit-learn Tutorials
+###### https://scikit-learn.org/stable/tutorial/index.html#scikit-learn-tutorials
+###### https://www.tutorialspoint.com/scikit_learn/scikit_learn_quick_guide.htm
+###### https://www.youtube.com/watch?v=pqNCD_5r0IU
+##### How to Create simulated data for regression in Python
+###### https://www.dezyre.com/recipes/create-simulated-data-for-regression-in-python
+##### Simulating Real-World Processes With Python
+###### https://realpython.com/simpy-simulating-with-python/
+###### https://www.youtube.com/watch?v=IWv6EZGa4zo
+##### Feature Selection For Machine Learning in Python
+###### https://machinelearningmastery.com/feature-selection-machine-learning-python/
+###### https://hub.packtpub.com/4-ways-implement-feature-selection-python-machine-learning/
+##### How to generate random numbers in Python Numpy
+###### https://www.w3schools.com/python/numpy_random.asp
+###### https://www.datacamp.com/community/tutorials/numpy-random
+###### https://pynative.com/python-random-module/
+##### Using Pandas and Python to Explore the Dataset
+###### https://realpython.com/pandas-python-explore-dataset/
+###### https://towardsdatascience.com/15-ways-to-create-a-pandas-dataframe-754ecc082c17
+###### https://realpython.com/pandas-dataframe/
+###### https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+##### NumPy, SciPy, and Pandas: Correlation With Python
+###### https://realpython.com/numpy-scipy-pandas-correlation-python/
+
+
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
