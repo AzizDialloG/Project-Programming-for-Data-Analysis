@@ -99,6 +99,8 @@ Please make sure to update tests as appropriate.
 ###### https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
 ##### NumPy, SciPy, and Pandas: Correlation With Python
 ###### https://realpython.com/numpy-scipy-pandas-correlation-python/
+###### https://www.pluralsight.com/guides/finding-relationships-data-with-python
+###### https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/
 
 
 
